@@ -1,0 +1,17 @@
+# Requirements for Course U21ADP05 - Exploratory Data Analysis and Visualization
+# Academic Assignment II (Case Study): Online Shoppers Purchasing Intention
+pandas>=2.0.0
+numpy>=1.24.0
+scipy>=1.10.0
+scikit-learn>=1.2.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+torch>=2.0.0
+python-docx>=0.8.11
+nbformat>=5.9.0
+nbclient>=0.8.0
+ipykernel>=6.20.0
+ucimlrepo>=0.0.7
+pymupdf>=1.23.0
+pywin32>=306
